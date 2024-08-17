@@ -37,7 +37,7 @@ Whatsapp bot created by DIGITRONIX TECH
 
 
 1. ***Star⭐ The Repository Must***
-2. ***Click [FORK](https://github.com/https://github.com/X-TECH-CORP/X-TECH-V1/)***
+2. ***Click [FORK](https://github.com/X-TECH-CORP/X-TECH-V1.5/fork)***
 3. ***[PAIR-CODE](https://x-tech-corp-web.onrender.com) `Whatapp>Three dots>Linked devices>connect with phone number`***
     <br>
     
