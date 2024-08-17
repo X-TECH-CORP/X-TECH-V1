@@ -8,7 +8,7 @@ global.botNumber = "2250500107362","2250141523296"
 global.devNumber = ["2250500107362","2250141523296"]
 
 global.Auto_Typing = true // auto typing
-global.Auto_Recording = false // auto recording
+global.Auto_Recording = true // auto recording
 global.Auto_ReadPesan = true // auto read messages
 global.Type_Menu = "v1" // TypeMenu v1:IMAGE v2:TEXT V3:TEXT+QSTATUS
 
