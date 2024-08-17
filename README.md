@@ -1,6 +1,6 @@
 # X-TECH-V1
 Whatsapp bot created by DIGITRONIX TECH
-```X-TECH V1```
+```X-TECH V1.5```
   </p>
 <p align="center">
   <a href="https://whatsapp.com/channel/0029VadaaRZK5cDOTh6sMD41">
@@ -19,7 +19,7 @@ Whatsapp bot created by DIGITRONIX TECH
  </a>   
 
  
- ### ℹ️ **ABOUT X-TECH V1**
+ ### ℹ️ **ABOUT X-TECH V1.5**
  Introducing X-TECH V1, It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
 
 
@@ -37,7 +37,7 @@ Whatsapp bot created by DIGITRONIX TECH
 
 
 1. ***Star⭐ The Repository Must***
-2. ***Click [FORK](https://github.com/https://github.com/X-TECH-CORP/X-TECH-V1/fork)***
+2. ***Click [FORK](https://github.com/https://github.com/X-TECH-CORP/X-TECH-V1/)***
 3. ***[PAIR-CODE](https://x-tech-corp-web.onrender.com) `Whatapp>Three dots>Linked devices>connect with phone number`***
     <br>
     
