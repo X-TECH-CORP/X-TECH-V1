@@ -3,7 +3,7 @@ Whatsapp bot created by DIGITRONIX TECH
 ```X-TECH V1.5```
   </p>
 <p align="center">
-  <a href="https://whatsapp.com/channel/0029VadaaRZK5cDOTh6sMD41">
+  <a href="https://chat.whatsapp.com/LeZF4x3ttDg7dcPBNP23Tn">
     <img alt=Support height="550" src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyzAgZ9rQ3fvVxLvinLezZ5B98h1TgjEQ7fw&s'
       (https://github.com/user-attachments/assets/34d64aed-61b5-460a-8415-6ac1809cc179)
 "
