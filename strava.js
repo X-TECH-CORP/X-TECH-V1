@@ -1,9 +1,9 @@
 /*
 * 𝙊𝙬𝙚𝙣𝙨𝘿𝙚𝙫
-* 𝘵𝘦𝘭𝘦: https://t.me/owenssw
-* 𝘪𝘯𝘧𝘰: https://s.id/26AYH
-* 𝘺𝘵: https://youtube.com/CekGem
-* 𝙶𝚛𝚘𝚞𝚙: https://chat.whatsapp.com/LQBLGAalERjE1P5X3REnGC
+* 𝘵𝘦𝘭𝘦: https://t.me/X-TECH-V1
+* 𝘪𝘯𝘧𝘰: https://chat.whatsapp.com/LeZF4x3ttDg7dcPBNP23Tn
+* 𝘺𝘵: https://youtube.com/X-TECH-V1
+* 𝙶𝚛𝚘𝚞𝚙: https://chat.whatsapp.com/LeZF4x3ttDg7dcPBNP23Tn
 
 * 🚨Di Larang Menghapus Wm Ini🚨
 * #𝗛𝗮𝗿𝗴𝗮𝗶𝗹𝗮𝗵 𝗣𝗲𝗺𝗯𝘂𝗮𝘁 
@@ -1151,7 +1151,7 @@ mute_bot = ![], module[_0x296d57(0x265)] = async (_0x23b255, _0x38267e, _0x59b58
         }
         break;
         case _0x1b775d(0x1c2):
-            if (!_0x585723) return _0x25b16a('*Khusus Owner Leccy!*');
+            if (!_0x585723) return _0x25b16a('*Khusus Owner x-tech!*');
             blockw = q[_0x1b775d(0x149)]('|')[0x0][_0x1b775d(0x11b)](/[^0-9]/g, '');
             let _0x2869a1 = await _0x23b255[_0x1b775d(0x2a8)](blockw + _0x1b775d(0x2f1));
             if (_0x2869a1['length'] == 0x0) return _0x25b16a(_0x1b775d(0x28e));
