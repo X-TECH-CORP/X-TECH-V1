@@ -1,12 +1,12 @@
 /*
  * 𝙊𝙬𝙚𝙣𝙨𝘿𝙚𝙫
- * 𝘵𝘦𝘭𝘦: https://t.me/owenssw
- * 𝘪𝘯𝘧𝘰: https://s.id/26AYH
- * 𝘺𝘵: https://youtube.com/CekGem
- * 𝙶𝚛𝚘𝚞𝚙: https://chat.whatsapp.com/LQBLGAalERjE1P5X3REnGC
+ * 𝘵𝘦𝘭𝘦: https://t.me/X-TECH-CORP
+ * 𝘪𝘯𝘧𝘰: https://chat.whatsapp.com/LeZF4x3ttDg7dcPBNP23Tn
+ * 𝘺𝘵: https://youtube.com/X-TECH-CORP
+ * 𝙶𝚛𝚘𝚞𝚙: https://chat.whatsapp.com/LeZF4x3ttDg7dcPBNP23Tn
 
- * 🚨Di Larang Menghapus Wm Ini🚨
- * #𝗛𝗮𝗿𝗴𝗮𝗶𝗹𝗮𝗵 𝗣𝗲𝗺𝗯𝘂𝗮𝘁  
+ * 🔞CYBERSAXTRON.INC🔰 
+ * #🔞CYBERSAXTRON.INC🔰 
 */
 
 function _0x552e() {
