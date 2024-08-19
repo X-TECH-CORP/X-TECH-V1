@@ -1,5 +1,5 @@
 {
-  "name": "private",
+  "name": "X-TECH V1",
   "version": "9.9.9.9",
   "description": "chrome",
   "main": "main.js",
@@ -12,7 +12,7 @@
   "scripts": {
     "start": "node main.js"
   },
-  "author": "OwensDev",
+  "author": "X-TECH",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
