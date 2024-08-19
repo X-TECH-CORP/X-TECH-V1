@@ -1,32 +1,32 @@
 # X-TECH-V1
-Whatsapp bot created by DIGITRONIX TECH
-```X-TECH V1.5```
+***Whatsapp bot created by 🔞CYBERSAXTRON.INC🔰***
+***```X-TECH V1```***
   </p>
 <p align="center">
   <a href="https://chat.whatsapp.com/LeZF4x3ttDg7dcPBNP23Tn">
-    <img alt=Support height="550" src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyzAgZ9rQ3fvVxLvinLezZ5B98h1TgjEQ7fw&s'
+    <img alt=Support height="550" src='https://telegra.ph/file/18f6130800a2488d3f35b.jpg'
       (https://github.com/user-attachments/assets/34d64aed-61b5-460a-8415-6ac1809cc179)
 "
     <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=Based+By+X+TECH+CORP." alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=BASED+BY+X+🔞CYBERSAXTRON.INC🔰" alt="">
 </p>
-<h1 align="center"> 🔞𝐃𝐈𝐆𝐈𝐓𝐑𝐎𝐍𝐈𝐗-𝐓𝐄𝐂𝐇🔰 </h1>
+<h1 align="center"> 🔞CYBERSAXTRON.INC🔰 </h1>
 </h1>
 <p align="center"> 𝐇𝐞𝐫𝐞 𝐢𝐬 𝐭𝐡𝐞 𝐛𝐨𝐧𝐝 𝐨𝐟 𝐭𝐡𝐞 𝐬𝐮𝐩𝐩𝐨𝐫𝐭 👇
 <p align="center"> 
- <a href="https://whatsapp.com/channel/0029VadaaRZK5cDOTh6sMD41" target="_blank">
+ <a href="https://chat.whatsapp.com/LeZF4x3ttDg7dcPBNP23Tn" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  </a>   
 
  
- ### ℹ️ **ABOUT X-TECH V1.5**
- Introducing X-TECH V1, It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>
+ ### ℹ️ ***```ABOUT X-TECH V1```***
+ ***```Introducing X-TECH V1 , It is designed to bring a whole new level of excitement to your boring WhatsApp use.hope it might be helpful to all loosen hope we feel delightful to save you release your feedback and share our chuddy buddy </p>```***
 
 
-`🕯ＦＥＡＴＵＲＥＳ🕯`
+***`🕯ＦＥＡＴＵＲＥＳ🕯`***
 
 
-***◉ Multi-Device Support  
+***```◉ Multi-Device Support```**  
 ◉ Prank   
 ◉ Download Multi services 
 ◉ Hidden NSFW Commands   
@@ -37,7 +37,7 @@ Whatsapp bot created by DIGITRONIX TECH
 
 
 1. ***Star⭐ The Repository Must***
-2. ***Click [FORK](https://github.com/X-TECH-CORP/X-TECH-V1.5/fork)***
+2. ***Click [FORK](https://github.com/X-TECH-CORP/X-TECH-V1/fork)***
 3. ***[PAIR-CODE](https://x-tech-corp-web.onrender.com) `Whatapp>Three dots>Linked devices>connect with phone number`***
     <br>
     
@@ -53,44 +53,40 @@ Whatsapp bot created by DIGITRONIX TECH
 <br>  
 
 
-### `DEPLOY TO REPLIT`
+### ```DEPLOY TO REPLIT```
 
-1. If You don't have an account in Replit. Create a account.
-    <br>
-<a href='https://replit.com/signup' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
-
-2. Now Deploy
+1. Now Deploy
     <br>
     <a href='https://repl.it/github.com/X-TECH-CORP/X-TECH-V1/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 ### DEPLOY TO CODESPACE
 
-3. If You don't have a account in Codespace. Create a account.
+2. If You don't have a account in Codespace. Create a account.
     <br>
-<a href='https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fcodespaces' target="_blank"><img alt='Codespaces' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=visualstudiocode' width="96.35" height="28"/></a></p>
+<a href='https://codespaces.new/X-TECH-CORP/X-TECH-V1' target="_blank"><img alt='Codespaces' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=visualstudiocode' width="96.35" height="28"/></a></p>
 
-4. Now Deploy
+3. Now Deploy
     <br>
 <a href='https://github.com/codespaces/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=visualstudiocode' width="96.35" height="28"/></a></p>
 
 #### DEPLOY TO HEROKU 
 
-1. If You don't have a account in Heroku. Create a account.
+4. If You don't have a account in Heroku. Create a account.
     <br>
 <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
-2. Now Deploy
+5. Now Deploy
     <br>
 <a href='https://dashboard.heroku.com/new?template=[https://github.com/toge01https://github.https://github.com/X-TECH-CORP/X-TECH-V1/edihttps://github.com/X-TECH-CORP/X-TECH-V1/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 
 #### DEPLOY TO RAILWAY
 
-7. If You don't have a account in Railway. Create a account.
+6. If You don't have a account in Railway. Create a account.
     <br>
 <a href='https://railway.app/login' target="_blank"><img alt='Railway' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=railway' width="96.35" height="28"/></a></p>
 
-8. Now Deploy
+7. Now Deploy
     <br>
 <a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=railway' width="96.35" height="28"/></a></p>
 
@@ -121,11 +117,11 @@ npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
 
 ##
 - ***Star ⭐ My Repo If You Like X-TECH-V1***
-- ***The [X TECH V1](https://github.com/X-TECH-CORP/X-TECH-V1/) is Made Under The [Apache-2.0 license](https://github.com/toge012345/TOGE-MD/blob/main/LICENSE).***
+- ***The [X TECH V1](https://github.com/X-TECH-CORP/X-TECH-V1/) is Made Under The [Apache-2.0 license](https://github.com/X-TECH-CORP/X-TECH-V1//blob/main/LICENSE).***
 - ***[Apache-2.0 license](https://github.com/X-TECH-CORP/X-TECH-V1/blob/main/LICENSE) Means Copying, Re-Uploading, Reverse-Engineering Is Illegal And Not Allowed.***
 ##
 
-### `𝘚𝘱𝘦𝘤𝘪𝘢𝘭 𝘛𝘩𝘢𝘯𝘬𝘴 𝘛𝘰`
+### `𝘚𝘱𝘦𝘤𝘪𝘢𝘭 𝘛𝘩𝘢𝘯𝘬𝘴 𝘛𝘰 X-TECH-CORP`
 - ***Everyone***
 - ***Who Helped Me***
 - ***Who Uses This Bot And Supports Me***
